@@ -1,0 +1,108 @@
+.main{
+    align-items: center;
+    text-align: center; 
+}
+
+h1{
+    width:100%;
+    background-color: brown;
+}
+
+.elementSymbol {
+    /* to bold symbol element */
+    font-weight: 900;
+    /*  inherits its text color from its parent */
+    color: inherit;
+    font-size: 24px;
+}
+
+table {
+    border: 5px thick double white;
+    width:1000px;
+    border-collapse: separate;
+    border-spacing:  5px;
+  
+  }
+
+td {
+    border: 5px thick double white;
+    padding: 4px;
+    /* Dimensions of each cell in the table are 67 x 86 px. */
+    width: 67px;
+    height: 86px;
+    /* The text is aligned in the center of the cell. */
+    text-align: center;
+}
+
+
+
+.pink
+{ 
+color:rgba(252, 8, 170, 0.87);
+background-color:#FFCCE5;
+}
+
+.Hgreen
+{ 
+color:#025002 ;
+background-color: #99E599;
+}
+
+.C6green{
+    color:#025002 ;
+background-color: #99E5B2;
+}
+
+.gray
+{
+color:rgb(46, 44, 44);
+background-color:#CCCCCC;
+}
+
+.purple
+{
+color:rgba(66, 2, 66, 0.438) ;
+background-color:#9E87BD ;
+}
+
+.SC21_blue
+{
+color:  rgba(51, 101, 238, 0.884);
+background-color: #B2E5FF;
+}
+
+.uppert2
+{ 
+color:#0852f3;
+background-color:#B2CCFF;
+}
+
+.yellow
+{
+color:#c9a30f;   
+background-color:#FFE57F;
+
+}
+
+.orange
+{
+    color:  rgb(170, 82, 5);
+    background-color:#FFCCB2;
+}
+
+.lowert2
+{
+    color: rgb(2, 63, 63);
+    background-color:#7FE5E5;
+}
+.Morange
+{
+    color: white;
+    background-color:#EA8350;
+
+}
+.space
+{
+    margin-top: 8px;
+    margin-left: 360px;
+}
